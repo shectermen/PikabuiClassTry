@@ -1,2 +1,0 @@
-# PikabuiClassTry
-Created with CodeSandbox
